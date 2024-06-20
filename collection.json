@@ -1,6 +1,6 @@
 {
-    "name": "Immutable zkEVM Sample Project",
-    "description": "A sample project for minting NFTs on Immutable zkEVM",
-    "image": "https://Dr-Maxwell.github.io/sample-project-metadata/collection.webp",
-    "external_link": "https://immutable.com" 
+  "name": "Dr. Maxwell's NFT Collection",
+  "description": "A unique collection of NFTs created by Dr. Maxwell.",
+  "image": "https://Dr-Maxwell.github.io/sample-project-metadata/collection.webp",
+  "external_link": "https://dr-maxwell.github.io/dr-maxwell-nft-info"
 }
